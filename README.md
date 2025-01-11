@@ -1,5 +1,40 @@
-# 💫 About Me:
-👋 Hi, I’m Armand Agogué (@Siin0pe)<br>A Computer Science student and freelance developer passionate about creating tailored solutions.<br><br>🔧 Skills:<br><br>Web & Software Development: HTML, CSS, JavaScript/TypeScript, PHP, Python, Java, C<br>Databases: SQL, MySQL, PostgreSQL, Prisma<br>Frameworks: Next.js, Angular, Flask, Symfony<br>Version Control: Git<br>Modeling: UML, MVC, MCD<br>🌟 Professional Experience:<br><br>Founder of Just Web Ltd: Delivered custom solutions tailored to clients' needs.<br>President of SOS E-Promotion: Developed software for NFT creators.<br>📫 Contact:<br><br>Portfolio: coming soon...<br>Codeur.com: [Armand Agogué Profile](https://www.codeur.com/-armandagnyr) <br>Email: [moijesuis2enmoi@gmail.com](mailto:moijesuis2enmoi@gmail.com)
+# 💫 About Me
+
+👋 Hi, I’m **Armand Agogué** ([@Siin0pe](https://github.com/Siin0pe))  
+A **Computer Science student** and **freelance developer** passionate about crafting tailored solutions.  
+
+---
+
+## 🔧 Skills
+
+- **Web & Software Development**:  
+  HTML, CSS, JavaScript/TypeScript, PHP, Python, Java, C  
+- **Databases**:  
+  SQL, MySQL, PostgreSQL, Prisma  
+- **Frameworks**:  
+  Next.js, Angular, Flask, Symfony  
+- **Version Control**:  
+  Git  
+- **Modeling**:  
+  UML, MVC, MCD  
+
+---
+
+## 🌟 Professional Experience
+
+- **Founder of Just Web Ltd**:  
+  Delivered custom solutions tailored to clients' needs.  
+- **President of SOS E-Promotion**:  
+  Developed software for NFT creators.  
+
+---
+
+## 📫 Contact
+
+- **Portfolio**: *Coming soon...*  
+- **Codeur.com**: [My Profile](https://www.codeur.com/-armandagnyr)  
+- **Email**: [moijesuis2enmoi@gmail.com](mailto:moijesuis2enmoi@gmail.com)  
+
 
 
 ## 🌐 Socials:
