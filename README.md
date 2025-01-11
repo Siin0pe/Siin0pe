@@ -1,6 +1,6 @@
 # 💫 About Me
 
-👋 Hi, I’m **Armand Agogué** ([@Siin0pe](https://github.com/Siin0pe))  
+👋 Hi, I’m **Armand** ([@Siin0pe](https://github.com/Siin0pe))  
 A **Computer Science student** and **freelance developer** passionate about crafting tailored solutions.  
 
 ## 🔧 Skills
