@@ -3,8 +3,6 @@
 👋 Hi, I’m **Armand Agogué** ([@moijesuis2enmoi](https://github.com/moijesuis2enmoi))  
 A **Computer Science student** and **freelance developer** passionate about crafting tailored solutions.  
 
----
-
 ## 🔧 Skills
 
 - **Web & Software Development**:  
@@ -18,8 +16,6 @@ A **Computer Science student** and **freelance developer** passionate about craf
 - **Modeling**:  
   UML, MVC, MCD  
 
----
-
 ## 🌟 Professional Experience
 
 - **Founder of Just Web Ltd**:  
@@ -27,15 +23,11 @@ A **Computer Science student** and **freelance developer** passionate about craf
 - **President of SOS E-Promotion**:  
   Developed software for NFT creators.  
 
----
-
 ## 📫 Contact
 
 - **Portfolio**: *Coming soon...*  
 - **Codeur.com**: [My Profile](https://www.codeur.com/-armandagnyr)  
 - **Email**: [moijesuis2enmoi@gmail.com](mailto:moijesuis2enmoi@gmail.com)  
-
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@moijesuis2enmoi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/armandagogue/) 
