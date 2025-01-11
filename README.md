@@ -20,8 +20,6 @@ A **Computer Science student** and **freelance developer** passionate about craf
 
 - **Founder of Just Web Ltd**:  
   Delivered custom solutions tailored to clients' needs.  
-- **President of SOS E-Promotion**:  
-  Developed software for NFT creators.  
 
 ## 📫 Contact
 
