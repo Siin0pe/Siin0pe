@@ -1,6 +1,6 @@
 # 💫 About Me
 
-👋 Hi, I’m **Armand Agogué** ([@moijesuis2enmoi](https://github.com/moijesuis2enmoi))  
+👋 Hi, I’m **Armand** ([@moijesuis2enmoi](https://github.com/moijesuis2enmoi))  
 A **Computer Science student** and **freelance developer** passionate about crafting tailored solutions.  
 
 ## 🔧 Skills
