@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Armand (@moijesuis2enmoi)<br>A Computer Science student and freelance developer passionate about crafting tailored solutions.<br><br>📫 Contact:<br>**Portfolio:** [My PortFolio](https://aagogue.fr)<br>**Codeur.com:** [My Profile](https://www.codeur.com/-armandagnyr)<br>**Email:** [moijesuis2enmoi@gmail.com](mailto:moijesuis2enmoi@gmail.com) 
+👋 Hi, I’m Armand (@moijesuis2enmoi)<br>A Computer Science student and freelance developer passionate about crafting tailored solutions.<br><br>📫 Contact:<br>**Portfolio:** [My PortFolio](https://aagogue.fr)<br>**Email:** [moijesuis2enmoi@gmail.com](mailto:moijesuis2enmoi@gmail.com) 
 
 
 # 💻 Tech Stack:
