@@ -50,6 +50,6 @@ Freelance chez [@Intersektion](https://github.com/Intersektion) · Paris
 
 <div align="center">
 
-[Portfolio](https://aagogue.fr) · [moijesuis2enmoi@gmail.com](mailto:moijesuis2enmoi@gmail.com)
+[Portfolio](https://aagogue.fr) · [LinkedIn](https://www.linkedin.com/in/armandagogue/) · [X](https://x.com/Siin0pe) · [moijesuis2enmoi@gmail.com](mailto:moijesuis2enmoi@gmail.com)
 
 </div>
