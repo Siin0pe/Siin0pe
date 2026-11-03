@@ -2,11 +2,11 @@
 
 # Armand
 
-**Fullstack & AI Engineer**
+**Lead Dev — Fullstack & AI**
 
 Python · TypeScript · AI in production
 
-Lead fullstack & AI dev (work-study) at [@Intersektion](https://github.com/Intersektion) · Paris
+Work-study at [@Intersektion](https://github.com/Intersektion) · Paris
 
 <br/>
 
