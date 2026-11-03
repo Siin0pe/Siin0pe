@@ -40,10 +40,17 @@ Work-study at [@Intersektion](https://github.com/Intersektion) · Paris
 
 ### Projects
 
-**[chrome-referer-spoofer](https://github.com/Siin0pe/chrome-referer-spoofer)** — per-site `Referer` header control, right in Chrome<br/>
-**[discord-login-qr-reverse-engineering](https://github.com/Siin0pe/discord-login-qr-reverse-engineering)** — Discord QR auth: WebSocket, crypto, remote login<br/>
-**[cs2-ct-tero-detector](https://github.com/Siin0pe/cs2-ct-tero-detector)** — real-time CT/T detection, YOLO11 + custom training<br/>
-**[seo-god-mode](https://github.com/Siin0pe/seo-god-mode)** — Search Console + GA4 + PageSpeed → 3 ranked actions, in your terminal
+**[chrome-referer-spoofer](https://github.com/Siin0pe/chrome-referer-spoofer)**<br/>
+Per-site `Referer` rules for Chrome — presets, instant toggle, six releases.
+
+**[discord-login-qr-reverse-engineering](https://github.com/Siin0pe/discord-login-qr-reverse-engineering)**<br/>
+Full teardown of Discord's QR login: WebSocket handshake, remote-auth crypto, session exchange.
+
+**[cs2-ct-tero-detector](https://github.com/Siin0pe/cs2-ct-tero-detector)**<br/>
+YOLO11 fine-tuned on hand-labeled CS2 footage to tell CT from T in real time — dataset, training and inference included.
+
+**[seo-god-mode](https://github.com/Siin0pe/seo-god-mode)**<br/>
+Claude Code plugin: live Search Console + GA4 + PageSpeed in, three ranked actions out. No invented numbers.
 
 </div>
 
