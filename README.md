@@ -2,10 +2,11 @@
 
 # Armand
 
-**Python · TypeScript · IA**
+**Fullstack & AI Engineer**
 
-Je construis des produits et des agents IA qui tournent en production.<br/>
-Freelance chez [@Intersektion](https://github.com/Intersektion) · Paris
+Python · TypeScript · AI in production
+
+Lead fullstack & AI dev (work-study) at [@Intersektion](https://github.com/Intersektion) · Paris
 
 <br/>
 
@@ -25,11 +26,11 @@ Freelance chez [@Intersektion](https://github.com/Intersektion) · Paris
 
 <div align="center">
 
-### Ce que je fais
+### What I do
 
-**IA en production** — agents, pipelines, orchestration de modèles, outils internes<br/>
-**Produits** — desktop (Rust / Tauri), mobile (Expo), web (TypeScript)<br/>
-**Outils & sécu** — extensions navigateur, reverse engineering, automatisation
+**AI in production** — agents, pipelines, model orchestration, internal tooling<br/>
+**Products** — desktop (Rust / Tauri), mobile (Expo), web (TypeScript)<br/>
+**Tooling & security** — browser extensions, reverse engineering, automation
 
 </div>
 
@@ -37,12 +38,25 @@ Freelance chez [@Intersektion](https://github.com/Intersektion) · Paris
 
 <div align="center">
 
-### Projets
+### Projects
 
-**[chrome-referer-spoofer](https://github.com/Siin0pe/chrome-referer-spoofer)** — piloter l'en-tête `Referer` par site, dans Chrome<br/>
-**[discord-login-qr-reverse-engineering](https://github.com/Siin0pe/discord-login-qr-reverse-engineering)** — auth par QR code de Discord : WebSocket, crypto, remote auth<br/>
-**[cs2-ct-tero-detector](https://github.com/Siin0pe/cs2-ct-tero-detector)** — détection temps réel CT/T sur CS2, YOLO11 + entraînement custom<br/>
-**[seo-god-mode](https://github.com/Siin0pe/seo-god-mode)** — Search Console + GA4 + PageSpeed → 3 actions classées, dans le terminal
+**[chrome-referer-spoofer](https://github.com/Siin0pe/chrome-referer-spoofer)** — per-site `Referer` header control, right in Chrome<br/>
+**[discord-login-qr-reverse-engineering](https://github.com/Siin0pe/discord-login-qr-reverse-engineering)** — Discord QR auth: WebSocket, crypto, remote login<br/>
+**[cs2-ct-tero-detector](https://github.com/Siin0pe/cs2-ct-tero-detector)** — real-time CT/T detection, YOLO11 + custom training<br/>
+**[seo-god-mode](https://github.com/Siin0pe/seo-god-mode)** — Search Console + GA4 + PageSpeed → 3 ranked actions, in your terminal
+
+</div>
+
+---
+
+<div align="center">
+
+### Stats
+
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Siin0pe&show_icons=true&theme=dark" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Siin0pe&theme=dark" />
+<br/>
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Siin0pe&layout=compact&theme=dark" />
 
 </div>
 
